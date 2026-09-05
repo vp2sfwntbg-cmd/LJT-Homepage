@@ -18,7 +18,6 @@ baseurl                  : "/LJT-Homepage"
 repository               : "vp2sfwntbg-cmd/LJT-Homepage"
 
 # Site Author
-athor:
 author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
